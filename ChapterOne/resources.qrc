@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>Everaldo-Crystal-Clear-App-Quick-restart.ico</file>
+        <file>Kyo-Tux-Aeon-Sign-Shutdown.ico</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Lboi-Tweetscotty-Twitter-moon.ico</file>
+        <file>pexels-johannes-plenio-1103970.jpg</file>
+    </qresource>
+</RCC>
